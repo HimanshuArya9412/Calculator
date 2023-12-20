@@ -1,3 +1,3 @@
 # Calculator_javascript
-hhml,css,jabascript
+html,css,javascript
 
